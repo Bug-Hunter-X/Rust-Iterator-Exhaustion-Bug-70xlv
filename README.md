@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust programming: exhausting an iterator and subsequently attempting to access elements that have already been consumed. The `bug.rs` file shows the erroneous code, leading to a runtime panic. The `bugSolution.rs` file provides a corrected version, illustrating proper iterator handling.
